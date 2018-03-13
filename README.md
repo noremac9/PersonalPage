@@ -11,4 +11,5 @@ Include:
  - example code
  - contact info
  - classes taken
-   - Comments section
+   - Comments section
+ - current project popup header
